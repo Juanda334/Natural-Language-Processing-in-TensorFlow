@@ -1,0 +1,1 @@
+This repository contains the working codes from the Natural Language Processing in TensorFlow course from DeepLearning AI.
